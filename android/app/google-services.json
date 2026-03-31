@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263982297790",
+    "project_id": "smartschool-8e775",
+    "storage_bucket": "smartschool-8e775.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263982297790:android:75f5c849f9023432f0a4ef",
+        "android_client_info": {
+          "package_name": "com.lantechcomputers.smartschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7I1FZoIllpaWm1NnivASGEssHY417Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
